@@ -2,10 +2,11 @@
 
 <h1 align="left">Hi 👋, I'm Subhajit Lai</h1>
 <h3 align="left">A passionate Software developer from India</h3>
-<img align="right" width="250" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itssubhoo&label=Profile%20views&color=0e75b6&style=flat" alt="itssubhoo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itssubhoo" alt="itssubhoo" /></a> </p>
+<img align="right" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
 - 🔭 I’m currently learning **mechine learning**
 
