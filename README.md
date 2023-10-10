@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **iamsubhajitlai@gmail.com**
 
-- ⚡ Fun fact **i dont think i,m**
+- ⚡ Fun fact **i dont think i'm that funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
