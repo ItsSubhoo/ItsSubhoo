@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itssubhoo" alt="itssubhoo" /></a> </p>
 <img align="right" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 
-- 🔭 I’m currently learning **mechine learning**
+- 🔭 I’m currently learning **machine learning**
 
 - 👯 I’m looking to collaborate on **open source**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **iamsubhajitlai@gmail.com**
 
-- ⚡ Fun fact **i dont think i'm that funny**
+- ⚡ Fun fact **I don't think I'm that funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
